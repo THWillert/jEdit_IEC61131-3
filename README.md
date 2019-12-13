@@ -5,15 +5,15 @@
 IEC61131-3 Edit-Mode. Kombination aus IL und ST.
 
 
-### Voraussetzungen
+## Voraussetzungen
 
 ...
 
-### Installation (Windows)
+## Installation (Windows)
 ...
 
-### Anpassungen
-
+## Anpassungen
+...
 
 ## ToDo
 
